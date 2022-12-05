@@ -1,21 +1,22 @@
 <h1 align="center">👋 Hello network! i'm Leandro De Filippis</h1>
 <h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3><br />
 
-
+<p align="center">
 - 🔭 I’m currently working on [RentTen](https://rent-ten.vercel.app/home)
 
 - 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [leandefilippis.vercel.app](leandefilippis.vercel.app)
 
-- 📫 How to reach me **leandefilippis@gmail.com**<br />
+- 📫 How to reach me **leandefilippis@gmail.com**
+</p><br />
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="40" /></a>
-</p>
+</p><br />
 
-<h3 align="left">Technologies:</h3>
-<p align="left">
+<h3 align="center">Technologies that i've used:</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
