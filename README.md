@@ -3,13 +3,17 @@
 
 <p align="center">
 - 🔭 I’m currently working on [RentTen](https://rent-ten.vercel.app/home)
-
-- 🌱 I’m currently learning **Angular**
-
+</p>
+<p align="center">
+  - 🌱 I’m currently learning **Angular**
+</p>
+<p align="center">
 - 👨‍💻 All of my projects are available at [leandefilippis.vercel.app](leandefilippis.vercel.app)
-
-- 📫 How to reach me **leandefilippis@gmail.com**
-</p><br />
+</p>
+<p align="center">
+  - 📫 You can reach me at: **leandefilippis@gmail.com**
+</p>
+  <br />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="40" /></a>
