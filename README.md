@@ -5,13 +5,13 @@
 - 🔭 I’m currently working on [RentTen](https://rent-ten.vercel.app/home)
 </p>
 <p align="center">
-  - 🌱 I’m currently learning **Angular**
+  - 🌱 I’m currently learning Angular
 </p>
 <p align="center">
 - 👨‍💻 All of my projects are available at [leandefilippis.vercel.app](leandefilippis.vercel.app)
 </p>
 <p align="center">
-  - 📫 You can reach me at: **leandefilippis@gmail.com**
+  - 📫 You can reach me at: leandefilippis@gmail.com
 </p>
   <br />
 
