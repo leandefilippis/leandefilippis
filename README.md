@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello network! i'm Leandro De Filippis</h1>
-<h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3><br />
 
 
 - 🔭 I’m currently working on [RentTen](https://rent-ten.vercel.app/home)
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [leandefilippis.vercel.app](leandefilippis.vercel.app)
 
-- 📫 How to reach me **leandefilippis@gmail.com**
+- 📫 How to reach me **leandefilippis@gmail.com**<br />
 
 <p align="left">
 <a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="40" /></a>
@@ -59,7 +59,7 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a> 
-</p>
+  </a>
+</p><br />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leandefilippis&label=Profile%20views&color=0e75b6&style=flat" alt="leandefilippis" /> </p>
