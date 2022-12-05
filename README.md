@@ -1,12 +1,10 @@
 <h1 align="center">👋 Hello network! i'm Leandro De Filippis</h1>
 <h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3><br />
 
-<div align="left">
 - 🔭 I’m currently working on [RentTen](https://rent-ten.vercel.app/home)
 - 🌱 I’m currently learning Angular
 - 👨‍💻 All of my projects are available at [leandefilippis.vercel.app](leandefilippis.vercel.app)
-- 📫 You can reach me at: leandefilippis@gmail.com
-</div>
+- 📫 You can reach me at: **leandefilippis@gmail.com**
 <br />
 
 <p align="center">
