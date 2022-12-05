@@ -1,19 +1,13 @@
 <h1 align="center">👋 Hello network! i'm Leandro De Filippis</h1>
 <h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3><br />
 
-<p align="center">
+<div align="left">
 - 🔭 I’m currently working on [RentTen](https://rent-ten.vercel.app/home)
-</p>
-<p align="center">
-  - 🌱 I’m currently learning Angular
-</p>
-<p align="center">
+- 🌱 I’m currently learning Angular
 - 👨‍💻 All of my projects are available at [leandefilippis.vercel.app](leandefilippis.vercel.app)
-</p>
-<p align="center">
-  - 📫 You can reach me at: leandefilippis@gmail.com
-</p>
-  <br />
+- 📫 You can reach me at: leandefilippis@gmail.com
+</div>
+<br />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="40" /></a>
