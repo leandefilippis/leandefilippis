@@ -9,7 +9,6 @@ With that being said, i'll be waiting for your proposals and new challenges in m
 
 - 🔭 I’m currently working on [RentTen](https://rent-ten.vercel.app/home)
 - 🌱 I’m currently learning Angular
-- 👨‍💻 All of my projects are available at [leandefilippis.vercel.app](leandefilippis.vercel.app)
 - 📫 You can reach me at: **leandefilippis@gmail.com**
 <br />
 
