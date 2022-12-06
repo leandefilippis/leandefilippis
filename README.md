@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hello network! i'm Leandro De Filippis</h1>
 <h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3><br />
+<p align="center">Hi! i'm Leandro De Filippis, a young programmer with a growing interest in the tech world since i was little.
+Im currently studying and improving my practices over the Angular framework.
+I consider myself a person capable of contributing with anything a team needs, during my practices in Henry my colleagues stood out my capabilites as a Front-End developer which i'm good at thanks to some design and layout knowledge that i have because of previous experiences, altough i believe myself capable of being effective in any development enviroment.
+With that being said, i'll be waiting for your proposals and new challenges in my way, stopping isn't an option!</p>
 
 - 🔭 I’m currently working on [RentTen](https://rent-ten.vercel.app/home)
 - 🌱 I’m currently learning Angular
