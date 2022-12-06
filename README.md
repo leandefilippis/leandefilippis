@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hello network! i'm Leandro De Filippis</h1>
-<h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3><br />
+<h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="40" /></a>
+</p><br />
+
 <p align="left">Hi! i'm Leandro De Filippis, a young programmer with a growing interest in the tech world since i was little.<br />
 Im currently studying and improving my practices over the Angular framework.<br />
 I consider myself a person capable of contributing with anything a team needs, during my practices in Henry my colleagues stood out my capabilites as a Front-End developer which i'm good at thanks to some design and layout knowledge that i have because of previous experiences, altough i believe myself capable of being effective in any development enviroment.<br />
@@ -10,10 +14,6 @@ With that being said, i'll be waiting for your proposals and new challenges in m
 - 👨‍💻 All of my projects are available at [leandefilippis.vercel.app](leandefilippis.vercel.app)
 - 📫 You can reach me at: **leandefilippis@gmail.com**
 <br />
-
-<p align="center">
-<a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="40" /></a>
-</p><br />
 
 <h3 align="center">Technologies that i've used:</h3>
 <p align="center">
