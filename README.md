@@ -15,8 +15,8 @@ With that being said, i'll be waiting for your proposals and new challenges in m
 
   <a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="110" /></a>
 
-<h3 align="center">Technologies that i've used:</h3>
-<p align="center">
+<h3 align="left">Technologies that i've used:</h3>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
