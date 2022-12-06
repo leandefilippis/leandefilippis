@@ -13,6 +13,8 @@ With that being said, i'll be waiting for your proposals and new challenges in m
 - 📫 You can reach me at: **leandefilippis@gmail.com**
 <br />
 
+  <a align="left" href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="110" /></a>
+
 <h3 align="center">Technologies that i've used:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -24,8 +26,6 @@ With that being said, i'll be waiting for your proposals and new challenges in m
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a><br />
-  <a align="left" href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="110" /></a>
-</p><br />
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
