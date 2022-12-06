@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello network! i'm Leandro De Filippis</h1>
 <h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="110" /></a>
-</p><br />
 
 <p align="left">Hi! i'm Leandro De Filippis, a young programmer with a growing interest in the tech world since i was little.<br />
 Im currently studying and improving my practices over the Angular framework.<br />
@@ -26,6 +24,8 @@ With that being said, i'll be waiting for your proposals and new challenges in m
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a><br />
+  <a align="left" href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="110" /></a>
+</p><br />
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
