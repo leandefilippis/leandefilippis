@@ -7,10 +7,7 @@ Im currently studying and improving my practices over the Angular framework.<br 
 I consider myself a person capable of contributing with anything a team needs, during my practices in Henry my colleagues stood out my capabilites as a Front-End developer which i'm good at thanks to some design and layout knowledge that i have because of previous experiences, altough i believe myself capable of being effective in any development enviroment.<br />
 With that being said, i'll be waiting for your proposals and new challenges in my way, stopping isn't an option!</p><br />
 
-- 🔭 I’m currently working on [RentTen](https://rent-ten.vercel.app/home)
-- 🌱 I’m currently learning Angular
-- 📫 You can reach me at: **leandefilippis@gmail.com**
-<br />
+**leandefilippis@gmail.com**
 
   <a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="110" /></a>
 
