@@ -1,11 +1,9 @@
 <h1 align="center">Leandro De Filippis</h1>
-<h3 align="center">A passionate fullstack developer from Rosario, Argentina</h3>
+<h3 align="center">Fullstack Developer from Rosario, Argentina</h3>
 <p align="center">
 
-<p align="left">Hi! i'm Leandro De Filippis, a young programmer with a growing interest in the tech world since i was little.
+<p align="left">Hi! i'm Leandro De Filippis, a young developer with a growing interest in the tech world since i was little.
 I consider myself a person capable of contributing with anything a team needs, i believe myself capable of being effective in any development enviroment.<br />
-
-**leandefilippis@gmail.com**
 
   <a href="https://www.linkedin.com/in/leandrodefilippis/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/leandrodefilippis/" height="30" width="110" /></a>
 
